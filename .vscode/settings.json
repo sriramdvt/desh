@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "libraries.h": "c",
+        "echo.h": "c",
+        "structs.h": "c",
+        "*.ipp": "c",
+        "dpwd.h": "c",
+        "complex": "c",
+        "pinfo.h": "c",
+        "handler.h": "c",
+        "history.h": "c",
+        "pipeline.h": "c",
+        "list": "c",
+        "jobs.h": "c"
+    }
+}
